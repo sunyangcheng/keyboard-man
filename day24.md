@@ -1,5 +1,7 @@
 ### 收获&学习心得&心路历程：
 
+挖掘快捷键场景
+
 - leader g g: 打开source control面板
 - leader g s: git add命令
 - leader g c: git commit命令

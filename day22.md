@@ -1,5 +1,7 @@
 ### 收获&学习心得&心路历程：
 
+目标：掌握编码
+
 - 快速修复 command + .
 - 触发参数提示 command + shift + space
 - 触发建议 command + i
