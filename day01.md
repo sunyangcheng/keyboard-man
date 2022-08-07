@@ -1,5 +1,7 @@
 ### 收获&学习新的&心路历程
 
+目标：在 vim 中活下去
+
 一、认识vim
 
 - 认识四种mode, 正常模式(normal), 插入模式(insert), 命令模式(command), 可视模式(visual)
