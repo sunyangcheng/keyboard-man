@@ -1,6 +1,7 @@
 ### 收获&学习心得&心路历程：
 
-重构: 
+目标：掌握重构
+
 - windows: ctrl + . || alt + enter
 - mac: cmd + .
 

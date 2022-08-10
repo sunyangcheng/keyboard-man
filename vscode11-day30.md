@@ -1,6 +1,6 @@
 ### 收获&学习心得&心路历程：
 
-debug
+目标：掌握debug
 
 - start: `F5`
 - stop: `shift + F5`

@@ -1,6 +1,6 @@
 ### 收获&学习心得&心路历程：
 
-vscode 终端
+目标：掌握 vscode 终端
 
 - ctrl + `: toggle终端
 - ctrl + `\`: 终端分屏

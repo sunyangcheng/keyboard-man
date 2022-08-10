@@ -1,6 +1,6 @@
 ### 收获&学习心得&心路历程：
 
-lazygit
+目标：学习lazygit
 
 安装
 `brew install lazygit`

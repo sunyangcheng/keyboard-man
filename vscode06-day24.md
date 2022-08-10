@@ -1,6 +1,6 @@
 ### 收获&学习心得&心路历程：
 
-挖掘快捷键场景
+目标：掌握git
 
 - leader g g: 打开source control面板
 - leader g s: git add命令
