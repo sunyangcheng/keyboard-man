@@ -68,16 +68,16 @@ vscode:
 
 Vimium:
 
-1. [初始 Vimium C](https://github.com/sunyangcheng/keyboard-man/blob/main/vimuim01-day31.md)
+1. [初始 Vimium C](https://github.com/sunyangcheng/keyboard-man/blob/main/vimium01-day31.md)
 
-2. [页面内的操作](https://github.com/sunyangcheng/keyboard-man/blob/main/vimuim02-day32.md)
+2. [页面内的操作](https://github.com/sunyangcheng/keyboard-man/blob/main/vimium02-day32.md)
 
-3. [搜索&查找](https://github.com/sunyangcheng/keyboard-man/blob/main/vimuim03-day33.md)
+3. [搜索&查找](https://github.com/sunyangcheng/keyboard-man/blob/main/vimium03-day33.md)
 
-4. [标签](https://github.com/sunyangcheng/keyboard-man/blob/main/vimuim04-day34.md)
+4. [标签](https://github.com/sunyangcheng/keyboard-man/blob/main/vimium04-day34.md)
 
-5. [标记](https://github.com/sunyangcheng/keyboard-man/blob/main/vimuim05-day35.md)
+5. [标记](https://github.com/sunyangcheng/keyboard-man/blob/main/vimium05-day35.md)
 
-6. [devTools高频操作](https://github.com/sunyangcheng/keyboard-man/blob/main/vimuim06-day36.md)
+6. [devTools高频操作](https://github.com/sunyangcheng/keyboard-man/blob/main/vimium06-day36.md)
 
-7. [debug](https://github.com/sunyangcheng/keyboard-man/blob/main/vimuim07-day37.md)
+7. [debug](https://github.com/sunyangcheng/keyboard-man/blob/main/vimium07-day37.md)
