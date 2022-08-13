@@ -1,4 +1,4 @@
-### 收获&学习心得&心路历程：
+### 收获&学习心得&心路历程
 
 目标：掌握 vscode 终端
 
@@ -16,7 +16,7 @@
   - workbench.action.terminal.focusPrevious: ctrl + shift + [
   - workbench.action.terminal.focusNext: ctrl + shift + ]
 
-### 问题：
+### 扩展
 
 通过阅读源码，配置默认终端
 

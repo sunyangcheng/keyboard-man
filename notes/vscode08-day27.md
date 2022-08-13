@@ -1,4 +1,4 @@
-### 收获&学习心得&心路历程：
+### 收获&学习心得&心路历程
 
 目标：掌握重构
 
@@ -6,10 +6,11 @@
 - mac: cmd + .
 
 1. Abracadabra
-2. Hocus Pocus 
+2. Hocus Pocus
 3. Javascript Booster
 
 快捷键配置
+
 ```json
 "vim.normalModeKeyBindingsNonRecursive": [
   {
@@ -22,7 +23,3 @@
   },
 ]
 ```
-
-### 问题：
-
-xxxxxxx

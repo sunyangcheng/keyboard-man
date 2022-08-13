@@ -1,7 +1,7 @@
-### 收获&学习心得&心路历程：
+### 收获&学习心得&心路历程
 
 目标：掌握窗⼝的管理
-    
+
 新建窗⼝：
 
 - 左右 C-w v
@@ -20,14 +20,14 @@
 
 - C-w o(很少用)
 - 扩展
-    
+
     利⽤ vscode 的⾃定义快捷键：
-    
-    - 新建窗⼝
-        - Command + \q
-    - 关闭窗⼝
-        - command+w
-        - command+k+w
-    - 窗⼝切换
-        - shift+⽅向键
-        - 没改键的话使⽤：shift+ctrl+jkhl
+
+  - 新建窗⼝
+    - Command + \q
+  - 关闭窗⼝
+    - command+w
+    - command+k+w
+  - 窗⼝切换
+    - shift+⽅向键
+    - 没改键的话使⽤：shift+ctrl+jkhl

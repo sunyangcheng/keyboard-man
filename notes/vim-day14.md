@@ -1,4 +1,4 @@
-### 收获&学习心得&心路历程：
+### 收获&学习心得&心路历程
 
 目标：掌握悬浮显示&⼤⼩写&注释
 
@@ -38,5 +38,3 @@ import { calcHeight, getEl } from '@/utils';
 ```js
 import { calcHeight, /* getEl */ } from '@/utils';
 ```
-
-### 问题：

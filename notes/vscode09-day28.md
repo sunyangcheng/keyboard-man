@@ -1,4 +1,4 @@
-### 收获&学习心得&心路历程：
+### 收获&学习心得&心路历程
 
 目标：掌握 VSpaceCode(whichkey)
 
@@ -6,10 +6,10 @@
 
 - 初始化
 
-- <a href="https://github.com/VSpaceCode/VSpaceCode/blob/master/src/configuration/settings.jsonc">setting</a>
+- [setting](https://github.com/VSpaceCode/VSpaceCode/blob/master/src/configuration/settings.jsonc)
 
-- <a href="https://github.com/VSpaceCode/VSpaceCode/blob/master/src/configuration/keybindings.jsonc">keybindings</a>
+- [keybindings](https://github.com/VSpaceCode/VSpaceCode/blob/master/src/configuration/keybindings.jsonc)
 
-### 问题：
+### 问题
 
 看似功能强大，实则目前应用场景不是很多，有待挖掘使用场景，进而进行配置修改
