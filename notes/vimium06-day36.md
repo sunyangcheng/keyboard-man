@@ -10,7 +10,8 @@
   - 聚焦到console面板：ctrl + `
 - elements面板：
   - 打开elements面板：`cmd + options + c`
-  - 打开elements面板并进入选择元素状态：`cmd + shift + c`
+    - toggle选择元素状态：`cmd + shift + c`
+  - 一步到位打开elements面板并进入选择元素状态：`cmd + shift + c`
 - source面板：
   - 搜索文件：`cmd + p`
   - 搜索命令：`cmd + shift + p`
