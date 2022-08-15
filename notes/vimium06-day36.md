@@ -1,5 +1,7 @@
 ### 收获&学习心得&心路历程
 
+目标：掌握devtools
+
 - toggle devtool 并定位到上次打开面板：`cmd + option + i`
 - 切换到下一个面板: `cmd + ]`
 - 切换到上一个面板：`cmd + [`
