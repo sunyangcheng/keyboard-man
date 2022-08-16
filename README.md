@@ -81,3 +81,7 @@ Vimium:
 6. [devTools高频操作](https://github.com/sunyangcheng/keyboard-man/blob/main/notes/vimium06-day36.md)
 
 7. [debug](https://github.com/sunyangcheng/keyboard-man/blob/main/notes/vimium07-day37.md)
+
+iTerm2
+
+1. [导航](https://github.com/sunyangcheng/keyboard-man/blob/main/notes/iterm2-01.md)
